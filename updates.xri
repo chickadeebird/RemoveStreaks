@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+		First release of Remove Streaks from chickadeebird.
+      </p>
+      <p>
+      The scripts have been written by Chick Dee (alias chickadeebird).
+      Feedback can be provided on the PixInsight forums.
+      </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:2.0.0">
+      <package fileName="RemoveStreaksv1.0.0beta.zip" sha1="70604d9092f2162e2f8cc4f3264561d728ba8640" type="script" releaseDate="20250805">
+         <title>
+            Script for Remove Streaks Script.
+         </title>
+         <description>
+            <p>
+               Script for removal of streak artifacts from images, typically from off-axis stars. <br/>
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
